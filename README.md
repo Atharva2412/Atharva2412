@@ -1,9 +1,8 @@
-# A
+# Introduction 
 
 # 👋 Hi, I'm Atharva Patil  
-🎯 Graduate Engineer Trainee (Force Motors LTD ) - Sept 2025 to Aug 2026
-   Aspiring Data Analyst  
-💡 Skilled in SQL, Power BI, Snowflake, AWS, and Advanced Excel  
+🎯 Graduate Engineer Trainee (Force Motors LTD ) - Sept 2025 to Aug 2026  
+💡 Aspiring Data Analyst | Skilled in SQL, Power BI, Snowflake, AWS, and Advanced Excel  
 📊 Passionate about turning raw data into actionable insights  
 
 ---
