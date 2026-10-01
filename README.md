@@ -71,7 +71,7 @@
 ---
 
 ## 📄 Resume  
-[![Download Resume](https://img.shields.io/badge/Resume-Download-blue)](docs/Atharva_CV.pdf)  
+[![Download Resume](https://img.shields.io/badge/Resume-Download-blue)](docs/Atharv_CV.pdf)  
 
 ---
 
