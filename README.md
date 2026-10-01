@@ -1,4 +1,5 @@
 # Introduction 
+<img align="center" alt="coding" width="100%"  src="https://i.imgur.com/1ZvVkDc.gif">
 
 # 👋 Hi, I'm Atharva Patil  
 🎯 Graduate Engineer Trainee (Force Motors LTD ) - Sept 2025 to Aug 2026  
