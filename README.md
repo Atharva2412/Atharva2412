@@ -1,4 +1,4 @@
-# Introduction 
+
 <img align="center" alt="coding" width="100%"  src="https://i.imgur.com/1ZvVkDc.gif">
 
 # 👋 Hi, I'm Atharva Patil  
