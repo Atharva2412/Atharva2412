@@ -39,7 +39,7 @@
 ---
 
 ## 🎓 Education  
-- **B.E. Mechanical Engineering** – Dr. D. Y. Patil Institute of Engineering, Pune (CGPA: 7.56)  
+- **B.E. Mechanical Engineering** – Dr. D. Y. Patil Institute of Engineering, Management And Research Pune (CGPA: 7.56)  
 - **Diploma in Mechanical Engineering** – Govt. Polytechnic Jalgaon (84.10%)  
 - **SSC** – New English Medium School, Erandol (86.60%)  
 
