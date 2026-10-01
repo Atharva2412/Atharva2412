@@ -1,4 +1,4 @@
-# Atharva
+# A
 
 # 👋 Hi, I'm Atharva Patil  
 🎯 Graduate Engineer Trainee (Force Motors LTD ) - Sept 2025 to Aug 2026
@@ -66,7 +66,7 @@
 - 🚖 [OLA Booking Data Analysis](https://github.com/Atharva2412/Ola-Booking-Data-Analysis)  
 - 🛍️ [Customer Shopping Behavior Analysis](https://github.com/Atharva2412/Customer-Behavior-Analysis-Dashboard-)  
 - 🌾 [Agriculture Analytics & Climate Forecasting](https://github.com/Atharva2412/Agricultural-Analytics-Climate-Forecasting-Pipeline)  
-- 📦 [Supply Chain Analytics](https://github.com/Atharva2412/Supply-Chain-Analytics-Inventory-Optimization)  
+- 📦 [Supply Chain & Inventory Optimization ](https://github.com/Atharva2412/Supply-Chain-Analytics-Inventory-Optimization)  
 
 ---
 
