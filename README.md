@@ -27,7 +27,7 @@
 - 🌾 **Agriculture Analytics & Climate Forecasting**  
   *South India crop yield vs. rainfall/temperature analysis using AWS S3 + Snowflake + Power BI.*  
 
-- 📦 **Supply Chain Analytics**  
+- 📦 **Supply Chain Analytics & Inventory Optimization**  
   *Inventory optimization and profit/loss separation using SQL Server, MySQL, and Power BI.*  
 
 ---
